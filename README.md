@@ -1,16 +1,14 @@
-### PARDON MY DUST
-### I'm still working on this, so hold tight!
-<!--
-**HydeZero/HydeZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello!
+Hi. I'm HydeZero.
+I can code in:
+- C#
+- Python
 
-Here are some ideas to get you started:
+Don't ask me for professional advice since I'm not a professional at these languages yet.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am the owner of the TermBrowse and RSSReader repos. Both are terminal-based programs, but have a simple navigation scheme. Both are built in Python 3.12.
+
+Current Projects:
+- None (as of 6/28/2024)
+
+That is all that's happening right now. See you later.
