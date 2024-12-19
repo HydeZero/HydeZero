@@ -1,4 +1,4 @@
-# Hello!
+# HydeZero
 Hi. I'm HydeZero.
 I can code in:
 - C#
@@ -9,9 +9,6 @@ Don't ask me for professional advice since I'm not a professional at these langu
 I am the owner of the TermBrowse and RSSReader repos. Both are terminal-based programs, but have a simple navigation scheme. Both are built in Python 3.12.
 
 Current Projects:
-- ZeroEPUB
-  - A good EPUB reader application for Windows and Linux.
+- MP3Sync, a simple proof of concept app that basically takes your music library, converts it into MP3, and transfers it to your MP3 player via file copying.
 
-Updated as of July 10th, 2024
-
-That is all that's happening right now. See you later.
+Updated as of December 19th, 2024.
