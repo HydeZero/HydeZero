@@ -1,6 +1,4 @@
-# HydeZero
-Hi. I'm HydeZero.
-I can code in:
+Hi. I'm Zachary. I can code in:
 - C#
 - Python
 
